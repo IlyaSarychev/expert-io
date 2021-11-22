@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../fonts/helvetica/HelveticaBold/HelveticaBold.eot');
+  src: url('../fonts/helvetica/HelveticaBold/HelveticaBold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/helvetica/HelveticaBold/HelveticaBold.woff') format('woff'),
+  url('../fonts/helvetica/HelveticaBold/HelveticaBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../fonts/helvetica/HelveticaLight/HelveticaLight.eot');
+  src: url('../fonts/helvetica/HelveticaLight/HelveticaLight.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/helvetica/HelveticaLight/HelveticaLight.woff') format('woff'),
+  url('../fonts/helvetica/HelveticaLight/HelveticaLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../fonts/helvetica/HelveticaThin/HelveticaThin.eot');
+  src: url('../fonts/helvetica/HelveticaThin/HelveticaThin.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/helvetica/HelveticaThin/HelveticaThin.woff') format('woff'),
+  url('../fonts/helvetica/HelveticaThin/HelveticaThin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('../fonts/georgia/GeorgiaRegular/Georgia.eot');
+  src: url('../fonts/georgia/GeorgiaRegular/Georgia.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/georgia/GeorgiaRegular/Georgia.woff') format('woff'),
+  url('../fonts/georgia/GeorgiaRegular/Georgia.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('../fonts/georgia/GeorgiaBold/Georgia-Bold.eot');
+  src: url('../fonts/georgia/GeorgiaBold/Georgia-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/georgia/GeorgiaBold/Georgia-Bold.woff') format('woff'),
+  url('../fonts/georgia/GeorgiaBold/Georgia-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('../fonts/georgia/GeorgiaItalic/Georgia-Italic.eot');
+  src: url('../fonts/georgia/GeorgiaItalic/Georgia-Italic.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/georgia/GeorgiaItalic/Georgia-Italic.woff') format('woff'),
+  url('../fonts/georgia/GeorgiaItalic/Georgia-Italic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
